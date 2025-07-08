@@ -234,9 +234,3 @@ This project demonstrates:
 Perfect for learning about trading systems, real-time applications, and full-stack development!
 
 ---
-
-**Live Demo**: [Add your GitHub Pages or deployment URL here]
-
-**Author**: [Your Name]  
-**Contact**: [Your Email]  
-**GitHub**: [Your GitHub Profile]
